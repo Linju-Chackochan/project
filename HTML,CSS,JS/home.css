@@ -1,0 +1,76 @@
+a {
+    text-decoration: none;
+    font-size: 50px;
+    justify-content: space-between;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.679);
+    
+
+}
+
+.header {
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+    color: rgb(245, 8, 8);
+    background-color: rgba(0, 0, 0, 0.679);
+}
+
+body {
+    background-image: url(/image.jpeg);
+}
+
+nav {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+
+label {
+    color: white;
+    display: flex;
+    font-size: 35px;
+}
+
+input {
+    font-size: 25px;
+}
+
+button {
+    font-size: 40px;
+    border-radius: 35px;
+    color: white;
+    background-color: black;
+    /* margin-left: 500px; */
+}
+
+.divform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    color: white;
+    font-size: 25px;
+    justify-items:center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.071);
+    width: auto;
+}
+.aboutUs{
+justify-content: space-between;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 65px;
+}
